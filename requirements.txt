@@ -12,4 +12,5 @@ jupyterlab
 scipy
 catboost
 xgboost
+dill
 -e .
